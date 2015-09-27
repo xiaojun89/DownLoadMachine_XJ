@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility.DownLoad", "Utility.Download\Utility.DownLoad.csproj", "{89C3B4A5-CBB5-4F17-B5AF-7862B3DD0471}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DownLoadMachine", "DownLoadMachine\DownLoadMachine.csproj", "{ABB3F00F-5188-4937-BB2D-4E3BC5F78CE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89C3B4A5-CBB5-4F17-B5AF-7862B3DD0471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89C3B4A5-CBB5-4F17-B5AF-7862B3DD0471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89C3B4A5-CBB5-4F17-B5AF-7862B3DD0471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89C3B4A5-CBB5-4F17-B5AF-7862B3DD0471}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABB3F00F-5188-4937-BB2D-4E3BC5F78CE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB3F00F-5188-4937-BB2D-4E3BC5F78CE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB3F00F-5188-4937-BB2D-4E3BC5F78CE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB3F00F-5188-4937-BB2D-4E3BC5F78CE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
